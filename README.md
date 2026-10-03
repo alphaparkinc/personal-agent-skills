@@ -10,3 +10,12 @@ An intelligent reading companion that filters your daily news feeds, newsletters
 
 ## 3. Health & Wellness Coach
 A supportive wellness agent that tracks your hydration, screen time, and activity levels. It provides personalized, actionable advice to improve your posture, suggests quick desk stretches, and helps you build sustainable health habits through positive reinforcement and seamless daily integration.
+
+## 4. Financial Guardian & Budgeting Assistant
+A secure financial companion that monitors your daily spending patterns, categorizes expenses, and identifies subscription leaks. It provides proactive alerts when you're nearing budget limits, suggests micro-saving opportunities, and offers easy-to-understand monthly financial summaries to keep your financial goals on track without manual spreadsheet tracking.
+
+## 5. Lifelong Learning Tutor
+An adaptive educational agent designed to help you master new skills at your own pace. Whether you're learning a new language or picking up coding, it breaks down complex topics into bite-sized daily micro-lessons, tests your retention using spaced repetition, and recommends highly-rated tutorials and articles tailored to your current learning curve.
+
+## 6. Culinary Planner & Grocery Manager
+A smart kitchen assistant that generates weekly meal plans based on your dietary preferences, fitness goals, and what's currently in season. It automatically generates a consolidated grocery list, minimizes food waste by suggesting recipes for leftover ingredients, and can even place online grocery orders with your preferred local supermarkets.
