@@ -62,3 +62,10 @@ A protective personal legal assistant that demystifies dense consumer agreements
 
 ## 20. Mindful Reflection & Socratic Debrief Journaler
 An empathetic evening reflection companion that encourages mindful decompression. Using guided Socratic inquiry, it helps unpack daily friction, identify cognitive distortions, and recognize micro-wins. Over time, it synthesizes longitudinal mood patterns and personal values into a private, introspective life dashboard without invasive judgment.
+
+---
+
+## GenPark Ecosystem
+
+- **Official Website**: [https://www.genpark.ai](https://www.genpark.ai)
+- **LinkedIn Page**: [https://www.linkedin.com/company/92955550](https://www.linkedin.com/company/92955550)
