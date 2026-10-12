@@ -1,4 +1,4 @@
-﻿# Personal Agent Skills
+# Personal Agent Skills
 
 Here is a collection of distilled, brand-neutral personal agent skills for daily life.
 
@@ -46,3 +46,18 @@ An intelligent spatial design partner that reimagines interior living environmen
 
 ## 15. Circadian Wellness & Fasting Rhythm Coach
 A wellness assistant focused on harmonizing daily biology. It monitors intermittent fasting windows in sync with individual circadian rhythms, prompts mindful hydration, and suggests targeted desk mobility routines and breathwork exercises adapted to daily fatigue and cognitive load.
+
+## 16. Career Strategist & Interview Simulation Coach
+A dedicated career navigator that continuously analyzes market skill demands, benchmarks your professional experience, and identifies high-leverage growth opportunities. It dynamically tailors application materials for target roles, generates targeted project portfolio outlines, and conducts rigorous voice-driven mock interviews with instant, constructive critique on your narrative delivery and domain depth.
+
+## 17. Smart Home Resource & Energy Eco-Optimizer
+An automated personal energy steward that orchestrates smart household appliances and monitorable utility meters. By modeling local tariff structures and appliance power profiles, it schedules energy-intensive cycles during off-peak windows, identifies insulation or phantom-load anomalies, and delivers a consolidated dashboard on both cost savings and household carbon footprint reduction.
+
+## 18. Digital Attention Shield & Deep Focus Guardian
+A personal cognitive boundary defender designed to preserve flow states. It intelligently suppresses noisy notification cascades, gates inbound communications by context and urgency, and introduces friction against compulsive feed scrolling. At day's end, it provides transparent diagnostics on uninterrupted focus blocks, digital fatigue, and screen boundaries.
+
+## 19. Consumer Legal Clarity & Contract Auditor
+A protective personal legal assistant that demystifies dense consumer agreements, rental leases, freelance service contracts, and subscription terms. It flags ambiguous liability stipulations, auto-renewal trap clauses, and hidden penalty conditions, transforming impenetrable legal fine print into straightforward, itemized checklists with pragmatic negotiation suggestions.
+
+## 20. Mindful Reflection & Socratic Debrief Journaler
+An empathetic evening reflection companion that encourages mindful decompression. Using guided Socratic inquiry, it helps unpack daily friction, identify cognitive distortions, and recognize micro-wins. Over time, it synthesizes longitudinal mood patterns and personal values into a private, introspective life dashboard without invasive judgment.
