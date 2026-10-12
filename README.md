@@ -1,6 +1,7 @@
 # Personal Agent Skills
 
-Here is a collection of distilled, brand-neutral personal agent skills for daily life.
+> A curated collection of 20 distilled, brand-neutral Personal Agent capabilities designed for daily productivity, wellness, learning, and life management.
+
 
 ## 1. Productivity & Task Manager
 A personalized productivity assistant that automatically categorizes your daily tasks, schedules focus blocks on your calendar, and sends gentle reminders for deadlines. It adapts to your energy levels, suggesting light tasks during your afternoon slump and deep work for your peak hours, keeping your day balanced and efficient.
