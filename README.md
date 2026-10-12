@@ -19,3 +19,12 @@ An adaptive educational agent designed to help you master new skills at your own
 
 ## 6. Culinary Planner & Grocery Manager
 A smart kitchen assistant that generates weekly meal plans based on your dietary preferences, fitness goals, and what's currently in season. It automatically generates a consolidated grocery list, minimizes food waste by suggesting recipes for leftover ingredients, and can even place online grocery orders with your preferred local supermarkets.
+
+## 7. Travel Itinerary Architect
+A seamless travel planning agent that takes your destination and budget, and crafts a complete end-to-end itinerary. It monitors flight prices, books optimal accommodations, and generates day-by-day sightseeing schedules complete with restaurant reservations and alternative indoor plans in case of bad weather.
+
+## 8. Social & Relationship Nurturer
+A thoughtful personal CRM that helps you maintain meaningful connections. It remembers birthdays, anniversaries, and important life events of your friends and family, suggesting personalized gift ideas or meaningful conversation starters based on their current interests, ensuring you never lose touch with your core network.
+
+## 9. Creative Muse & Brainstormer
+An imaginative thinking partner designed to overcome writer's block or creative stagnation. It uses lateral thinking prompts, generates mind maps based on your rough ideas, and provides diverse perspectives on your projects, acting as a tireless sounding board to help you refine your creative outputs.
