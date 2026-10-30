@@ -1,0 +1,10 @@
+{
+  "name": "personal-agent-skills",
+  "version": "1.0.0",
+  "description": "Sovereign Personal Agent Orchestrator - Circadian energy-adaptive task scheduler, multimodal ambient intent fusion, and zero-interruption proactive utility thresholding with zero dependencies.",
+  "tools": [
+    "schedule_circadian_focus_blocks",
+    "fuse_multimodal_ambient_intent",
+    "evaluate_proactive_intervention_threshold"
+  ]
+}
